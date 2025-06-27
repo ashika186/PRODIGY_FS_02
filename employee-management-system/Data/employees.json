@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1750955145056,
+    "name": "Asim Ahamed ",
+    "email": "asim1234@gmail.com",
+    "role": "Manager"
+  },
+  {
+    "id": 1750955178481,
+    "name": "Madesh",
+    "email": "madesh1234@gmail.com",
+    "role": "Deputy Manager"
+  },
+  {
+    "id": 1750955253328,
+    "name": "Aashika",
+    "email": "aasika1234@gmail.com",
+    "role": "Assistant Manager"
+  },
+  {
+    "id": 1750955298816,
+    "name": "Madhan ",
+    "email": "madhan1234@gmail.com",
+    "role": "Officer 2"
+  },
+  {
+    "id": 1750955900843,
+    "name": "Kalam",
+    "email": "kalam1234@gmail.com",
+    "role": "Officer 1"
+  }
+]
